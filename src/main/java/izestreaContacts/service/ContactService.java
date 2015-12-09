@@ -12,7 +12,8 @@ import izestreaContacts.model.Contact;
 import izestreaContacts.repository.ContactRepository;
 import izestreaContacts.vo.ContactListVO;
 
-@Service
+//this class will be a service layer class
+@Service									
 @Transactional
 public class ContactService {
 
