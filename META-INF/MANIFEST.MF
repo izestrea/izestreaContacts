@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: izestreaContacts
+Bundle-SymbolicName: izestreaContacts
+Bundle-Version: 1.0.0.qualifier
+Export-Package: izestreaContacts.controller,
+ izestreaContacts.interceptor,
+ izestreaContacts.model,
+ izestreaContacts.repository,
+ izestreaContacts.service,
+ izestreaContacts.vo
